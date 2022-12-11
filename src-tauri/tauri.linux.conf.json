@@ -2,10 +2,10 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_512.png"
+        "png/app_256.ico",
+        "png/app_512.png"
       ],
-      "identifier": "com.tw93.weread",
+      "identifier": "com.marsey.rdrama",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
@@ -21,7 +21,7 @@
           "librsvg2-dev"
         ],
         "files": {
-          "/usr/share/applications/com-tw93-weread.desktop": "assets/com-tw93-weread.desktop"
+          "/usr/share/applications/com-marsey-rdrama.desktop": "assets/com-marsey-rdrama.desktop"
         }
       },
       "externalBin": [],
